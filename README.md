@@ -1,6 +1,6 @@
 # ObjectKeyVaule Class
 
-A utility class for handling object key-value pairs and circular references.
+I actually don't know what practical use it has.
 
 ## Introduction
 
